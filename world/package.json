@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "Diego Rustnnes Bandeira <rustnnes@gmail.com> (http://rustnnes.netlify.app)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "cucumber": "6.0.5"
+  }
+}
